@@ -549,6 +549,8 @@ Reflection Agent updates strategy:
 ## Team
 
 **Event:** AI-Verse Hackathon – ANOKHA 2026 
+**TEAM:** ASTRA
+**MEMBERS:** H R Vardhan,Baby Sree Gangarapu,Yeddula Likitha Reddy, Tendul Jos Joseph
 **Project:** NEXSTEP  
 **Track:** Agentic AI  
 **Institution:** Amrita Vishwa Vidyapeetham
