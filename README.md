@@ -10,7 +10,7 @@
 NEXSTEP is a multi-agent AI system that treats career planning as **sequential decision-making under uncertainty**. Instead of providing one-time recommendations, it continuously reasons about career state, executes actions, learns from outcomes, and adapts strategy.
 
 **Core Loop:**
-```<img width="1818" height="262" alt="Untitled" src="https://github.com/user-attachments/assets/ca5b9ba1-5779-4ee2-b8aa-62e0409e1399" />
+```![Agentic Decision Loop](images/agentic_loop.png)
 ```
 
 ---
